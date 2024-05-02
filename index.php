@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h2> Hello checking the page and other  things</h2>
 </body>
 </html>
